@@ -16,4 +16,6 @@ CMD [ "node", "src/index.js" ]
 FROM nginx
 
 COPY nginx.config /etc/nginx/conf.d/default.conf
-COPY --from=base build /usr/share/nginx/html
+
+# this part throws an error when building container image
+COPY --from=base src/public/index.html /usr/share/nginx/html
