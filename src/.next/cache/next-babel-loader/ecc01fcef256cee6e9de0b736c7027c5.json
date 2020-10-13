@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport DbFetcher from '../../components/database';\nimport Template from '../../components/template';\nexport default (function () {\n  return __jsx(Template, {\n    title: \"Database Query Demo\"\n  }, __jsx(DbFetcher, null));\n});","map":null,"metadata":{},"sourceType":"module"}

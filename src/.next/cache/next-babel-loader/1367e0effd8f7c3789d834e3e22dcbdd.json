@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport ApiGet from '../../components/api';\nimport Template from '../../components/template';\nexport default (() => {\n  return __jsx(Template, {\n    title: \"API/SWR Demo\"\n  }, __jsx(ApiGet, null));\n});","map":null,"metadata":{},"sourceType":"module"}

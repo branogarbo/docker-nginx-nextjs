@@ -1,0 +1,208 @@
+{
+  "../../components/mapbox": [
+    {
+      "id": "+d+o",
+      "name": "./src/node_modules/react/cjs/react.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "+kui",
+      "name": "./src/node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "+wdc",
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "/TI7",
+      "name": "./src/node_modules/prop-types/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "8L3h",
+      "name": "./node_modules/use-subscription/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "LlET",
+      "name": "./src/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "QCnb",
+      "name": "./node_modules/scheduler/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "UKfC",
+      "name": "./src/node_modules/react-dom/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "V+JD",
+      "name": "./src/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "b1zD",
+      "name": "./src/node_modules/react-dom/server.browser.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "f/k9",
+      "name": "./node_modules/use-subscription/cjs/use-subscription.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "gmCQ",
+      "name": "./src/node_modules/react/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "i8i4",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "q1tI",
+      "name": "./node_modules/react/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "qkBH",
+      "name": "./src/node_modules/scheduler/index.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "ufFK",
+      "name": "./src/node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "vTAR",
+      "name": "./src/node_modules/scheduler/cjs/scheduler.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "viRO",
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "yl30",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "static/chunks/framework.a7153f03ed8f1458b0f1.js",
+      "publicPath": "static/chunks/framework.a7153f03ed8f1458b0f1.js"
+    },
+    {
+      "id": "BsWp",
+      "name": "./src/node_modules/mapbox-gl/dist/mapbox-gl.js",
+      "file": "static/chunks/2e685757.a085f33ddd0054370970.js",
+      "publicPath": "static/chunks/2e685757.a085f33ddd0054370970.js"
+    },
+    {
+      "id": "+BgF",
+      "name": "./src/node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "+qMv",
+      "name": "./src/node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "5Qpd",
+      "name": "./src/node_modules/hammerjs/hammer.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "8oxB",
+      "name": "./node_modules/process/browser.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "IaJi",
+      "name": "./src/components/mapbox.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "ObcO",
+      "name": "./src/node_modules/@babel/runtime/helpers/esm/createClass.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "QtCj",
+      "name": "./src/node_modules/@babel/runtime/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "cDPe",
+      "name": "./src/node_modules/react-map-gl/dist/esm/index.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "mOk6",
+      "name": "./src/node_modules/react-virtualized-auto-sizer/dist/index.esm.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "pY8T",
+      "name": "./src/node_modules/react-map-gl/dist/esm/mapbox/mapbox.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "wJkw",
+      "name": "./src/node_modules/mjolnir.js/dist/esm/utils/globals.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "yJg9",
+      "name": "./src/node_modules/@babel/runtime/helpers/esm/extends.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "yLpj",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    },
+    {
+      "id": "z208",
+      "name": "./src/node_modules/react-map-gl/dist/esm/utils/globals.js",
+      "file": "static/chunks/16.31039269fe39f11bdeae.js",
+      "publicPath": "static/chunks/16.31039269fe39f11bdeae.js"
+    }
+  ]
+}
